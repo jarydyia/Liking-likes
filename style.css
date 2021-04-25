@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.likeBox{
+    margin-right: 50px;
+    border: 2px solid black ;
+    font-size: 20px;
+    height: 200px;
+}
+
+.topLine{
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+button{
+    background-color: yellow;
+    height: 25px;
+    width: 100px;
+    margin-left: 90px;
+}
+
+.noteBox{
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background-color: yellow;
+    text-align: justify;
+    text-align: center;
+}
